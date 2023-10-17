@@ -26,14 +26,12 @@ body{
 
 .inf h1{
     font-size: 36px;
-    color: #333;
     width: 100%;
 }
 
 .inf p{
     text-align: left;
     font-size: 16px;
-    color: #555;
     margin: 5px 10%;
 }
 
